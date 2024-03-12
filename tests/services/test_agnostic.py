@@ -1,6 +1,6 @@
 import os
 import unittest
-from src.services.Agnostic import Agnostic
+from src.services.agnostic import Agnostic
 
 
 def is_windows():
